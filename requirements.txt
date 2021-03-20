@@ -11,7 +11,7 @@ grpcio==1.12.1
 h5py==2.8.0
 html5lib==0.9999999
 itsdangerous==1.1.0
-Jinja2==2.10.3
+Jinja2==2.11.3
 Keras==1.2.0
 Markdown==2.6.11
 MarkupSafe==1.0
