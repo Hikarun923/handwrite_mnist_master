@@ -9,7 +9,7 @@ Flask-Cors==3.0.8
 gast==0.3.2
 grpcio==1.12.1
 h5py==2.8.0
-html5lib==0.9999999
+html5lib==0.999999999
 itsdangerous==1.1.0
 Jinja2==2.10.3
 Keras==1.2.0
